@@ -1,0 +1,15 @@
+C:\Proj C#\OOP2LABA\MySecondServer\bin\Debug\net7.0\MySecondServer.exe
+C:\Proj C#\OOP2LABA\MySecondServer\bin\Debug\net7.0\MySecondServer.deps.json
+C:\Proj C#\OOP2LABA\MySecondServer\bin\Debug\net7.0\MySecondServer.runtimeconfig.json
+C:\Proj C#\OOP2LABA\MySecondServer\bin\Debug\net7.0\MySecondServer.dll
+C:\Proj C#\OOP2LABA\MySecondServer\bin\Debug\net7.0\MySecondServer.pdb
+C:\Proj C#\OOP2LABA\MySecondServer\obj\Debug\net7.0\MySecondServer.csproj.AssemblyReference.cache
+C:\Proj C#\OOP2LABA\MySecondServer\obj\Debug\net7.0\MySecondServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proj C#\OOP2LABA\MySecondServer\obj\Debug\net7.0\MySecondServer.AssemblyInfoInputs.cache
+C:\Proj C#\OOP2LABA\MySecondServer\obj\Debug\net7.0\MySecondServer.AssemblyInfo.cs
+C:\Proj C#\OOP2LABA\MySecondServer\obj\Debug\net7.0\MySecondServer.csproj.CoreCompileInputs.cache
+C:\Proj C#\OOP2LABA\MySecondServer\obj\Debug\net7.0\MySecondServer.dll
+C:\Proj C#\OOP2LABA\MySecondServer\obj\Debug\net7.0\refint\MySecondServer.dll
+C:\Proj C#\OOP2LABA\MySecondServer\obj\Debug\net7.0\MySecondServer.pdb
+C:\Proj C#\OOP2LABA\MySecondServer\obj\Debug\net7.0\MySecondServer.genruntimeconfig.cache
+C:\Proj C#\OOP2LABA\MySecondServer\obj\Debug\net7.0\ref\MySecondServer.dll

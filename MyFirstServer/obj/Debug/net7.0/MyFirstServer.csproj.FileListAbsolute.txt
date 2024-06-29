@@ -1,0 +1,15 @@
+C:\Proj C#\OOP2LABA\MyFirstServer\bin\Debug\net7.0\MyFirstServer.exe
+C:\Proj C#\OOP2LABA\MyFirstServer\bin\Debug\net7.0\MyFirstServer.deps.json
+C:\Proj C#\OOP2LABA\MyFirstServer\bin\Debug\net7.0\MyFirstServer.runtimeconfig.json
+C:\Proj C#\OOP2LABA\MyFirstServer\bin\Debug\net7.0\MyFirstServer.dll
+C:\Proj C#\OOP2LABA\MyFirstServer\bin\Debug\net7.0\MyFirstServer.pdb
+C:\Proj C#\OOP2LABA\MyFirstServer\obj\Debug\net7.0\MyFirstServer.csproj.AssemblyReference.cache
+C:\Proj C#\OOP2LABA\MyFirstServer\obj\Debug\net7.0\MyFirstServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proj C#\OOP2LABA\MyFirstServer\obj\Debug\net7.0\MyFirstServer.AssemblyInfoInputs.cache
+C:\Proj C#\OOP2LABA\MyFirstServer\obj\Debug\net7.0\MyFirstServer.AssemblyInfo.cs
+C:\Proj C#\OOP2LABA\MyFirstServer\obj\Debug\net7.0\MyFirstServer.csproj.CoreCompileInputs.cache
+C:\Proj C#\OOP2LABA\MyFirstServer\obj\Debug\net7.0\MyFirstServer.dll
+C:\Proj C#\OOP2LABA\MyFirstServer\obj\Debug\net7.0\refint\MyFirstServer.dll
+C:\Proj C#\OOP2LABA\MyFirstServer\obj\Debug\net7.0\MyFirstServer.pdb
+C:\Proj C#\OOP2LABA\MyFirstServer\obj\Debug\net7.0\MyFirstServer.genruntimeconfig.cache
+C:\Proj C#\OOP2LABA\MyFirstServer\obj\Debug\net7.0\ref\MyFirstServer.dll
